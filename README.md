@@ -31,7 +31,8 @@ The main simulation files are available in the `FreeFEM` directory.
 
 ## Numerical Simulations
 
-### Example 1
+### Example 1: Crack Propagation from a Single Initial Crack
+This example illustrates the evolution of crack propagation starting from a single initial crack.
 ![Example 1](Video/singlefracture.gif)
 
 ## Requirements
