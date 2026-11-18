@@ -46,7 +46,7 @@ Download or clone this repository and run the main FreeFEM++ source file to repr
 
 ## Citation
 
-Sayahdin Alfat, *On Preserving Variational and Thermodynamic Consistency in Modeling Fracture of Zener-Type Viscoelastic Solids under Antiplane Loading*, submitted to [Communications in Nonlinear Science and Numerical Simulation](https://www.sciencedirect.com/journal/communications-in-nonlinear-science-and-numerical-simulation).
+Sayahdin Alfat, et al., *On Preserving Variational and Thermodynamic Consistency in Modeling Fracture of Zener-Type Viscoelastic Solids under Antiplane Loading*, submitted to [Communications in Nonlinear Science and Numerical Simulation](https://www.sciencedirect.com/journal/communications-in-nonlinear-science-and-numerical-simulation).
 
 ## License
 
