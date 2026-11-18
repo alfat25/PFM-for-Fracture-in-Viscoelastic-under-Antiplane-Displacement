@@ -33,10 +33,20 @@ The main simulation files are available in the `FreeFEM` directory.
 
 ### Example Crack Propagation from a Single Initial Crack
 This example illustrates the evolution of crack propagation starting from a single initial crack.
-![Example 1](Video/singlefracture.gif)
+<p align="center">
+  <img src="Video/singlefracture.gif"
+       width="70%"
+       alt="Crack Propagation from a Single Initial Crack">
+</p>
+
+---
 
 ### Example Interaction and coalescence of two cracks under antiplane loading
-This example illustrates the interaction and coalescence of two initial cracks during crack propagation under antiplane loading.![Example 2](Video/doublefracture.gif)
+This example illustrates the interaction and coalescence of two initial cracks during crack propagation under antiplane loading.!<p align="center">
+  <img src="Video/twocracks.gif"
+       width="70%"
+       alt="Interaction and Coalescence of Two Cracks">
+</p>
 
 ## Requirements
 
