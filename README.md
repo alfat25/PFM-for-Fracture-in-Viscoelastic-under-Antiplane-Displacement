@@ -32,7 +32,7 @@ The main simulation files are available in the `FreeFEM` directory.
 ## Numerical Simulations
 
 ### Example 1
-![Example 1](Videos/singlefracture.gif)
+![Example 1](Video/singlefracture.gif)
 
 ## Requirements
 
