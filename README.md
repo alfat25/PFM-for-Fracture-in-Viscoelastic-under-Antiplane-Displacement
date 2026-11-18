@@ -43,7 +43,7 @@ This example illustrates the evolution of crack propagation starting from a sing
 
 ### Example Interaction and coalescence of two cracks under antiplane loading
 This example illustrates the interaction and coalescence of two initial cracks during crack propagation under antiplane loading.!<p align="center">
-  <img src="Video/twocracks.gif"
+  <img src="Video/doublecracks.gif"
        width="70%"
        alt="Interaction and Coalescence of Two Cracks">
 </p>
