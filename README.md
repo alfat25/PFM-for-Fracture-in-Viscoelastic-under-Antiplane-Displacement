@@ -33,7 +33,9 @@ The main simulation files are available in the `FreeFEM` directory.
 
 The following animation illustrates the evolution of the phase-field damage variable during crack propagation.
 
-![Crack Propagation](single fracture.gif)
+<p align="center">
+  <img src="Videos/singlefracture.gif" width="85%" alt="Crack Propagation Animation">
+</p>
 
 ## Requirements
 
