@@ -29,13 +29,10 @@ The main simulation files are available in the `FreeFEM` directory.
 - `Videos/`: Animations of crack propagation.
 - `Results/`: Numerical results and figures.
 
-## Crack Propagation Animation
+## Numerical Simulations
 
-The following animation illustrates the evolution of the phase-field damage variable during crack propagation.
-
-<p align="center">
-  <img src="Videos/singlefracture.gif" width="85%" alt="Crack Propagation Animation">
-</p>
+### Example 1
+![Example 1](Videos/singlefracture.gif)
 
 ## Requirements
 
